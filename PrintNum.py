@@ -4,4 +4,4 @@ def printNum(n):
         print(x)
         x=x+1
 
-printNum(50)
+printNum(60)
