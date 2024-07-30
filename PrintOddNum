@@ -4,4 +4,4 @@ def printOdd(n):
     print(i)
     i=i+2
 
-printOdd(10)
+printOdd(20)
